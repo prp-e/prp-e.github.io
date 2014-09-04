@@ -27,7 +27,7 @@ h1{
               margin-left:500px;
               margin-right:500px;
               height:auto;
-              width:450px;
+              width:350px;
               text-align:left; 
               font-family:"Comic Sans MS"; 
               font-weight:normal; 
