@@ -47,4 +47,5 @@ a:hover, a:active {
 }
 .image-right {
               float:right;
+              margin-right:250px;
 }
