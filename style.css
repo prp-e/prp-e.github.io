@@ -24,7 +24,7 @@ h1{
 }
 
 .content{
-              margin-left:500px;
+
               margin-right:500px;
               height:auto;
               width:450px;
@@ -45,4 +45,9 @@ a:visited {
 a:hover, a:active {
 	color: #585858;
 	text-decoration: none;
+}
+.image-right {
+              margin-right:500px; 
+              height:auto; 
+              width:500px; 
 }
