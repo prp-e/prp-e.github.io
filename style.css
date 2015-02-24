@@ -13,7 +13,8 @@
 body{ 
      font-family:"Comic Sans MS";
      font-weight:normal;  
-     background:url("./bg.png");
+     background:#000000;
+     color:#FFFFFF;
 }
 
 h1{ 
@@ -21,15 +22,17 @@ h1{
         font-weight:bold; 
         text-align:center; 
         
+        
 }
 
 .content{
-              float:left;
+			  float:center;
               height:auto;
-              width:450px;
-              text-align:left; 
+              width:600px;
+              text-align:center; 
               font-family:"Comic Sans MS"; 
               font-weight:normal; 
+              margin-left:385px;
 }
 a:link {
 	color: #0600ff;
@@ -45,7 +48,4 @@ a:hover, a:active {
 	color: #585858;
 	text-decoration: none;
 }
-.image-right {
-              float:right;
-              margin-right:250px;
-}
+.
