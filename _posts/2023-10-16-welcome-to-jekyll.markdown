@@ -40,9 +40,15 @@ and designed a very simple test to make a quick comparison between the models. I
 
 ### Text Generation (T)
 
+In this task, I just used English prompts and observed how the models are behaving. It is basically the first thing you usually try when you find these models.
+
 ### Instruction Following (Q)
 
+In this task, I used _Alpaca_ question-answering style and observed the results. To make the comparison more fair, I _didn't_ use instruction-tuned models at all.
+
 ### Reasoning (R)
+
+This is basically the same as the previous one, but with sligth difference. The instruction isn't as simple as asking the name of the first US president or boiling point of water. Here I just gave the model some reasoning questions/problems and honestly, it did a great job as well.
 
 ### Persian Text Generation (P)
 
