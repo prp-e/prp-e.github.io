@@ -35,3 +35,15 @@ In order to find out if this model is really good or not, I just hand picked my 
 - Phi 1.5B
 
 and designed a very simple test to make a quick comparison between the models. In this simple test, I have defined some _tasks_ and each task means a group of prompts and the goal I had in my mind. Unfortunately, currently the test isn't really organized and as soon as I can put together everything I did, I will make it more organized (and therefore reliable.)
+
+## Tasks
+
+### Text Generation (T)
+
+### Instruction Following (Q)
+
+### Reasoning (R)
+
+### Persian Text Generation (P)
+
+### Code Generation (C)
