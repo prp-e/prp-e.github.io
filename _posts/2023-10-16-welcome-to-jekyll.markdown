@@ -61,3 +61,5 @@ At this point we can call this _Non-English_ task and not only Persian.
 This is the same as the tasks _T_ and _P_ but with code generation experience. I personally tested python, js and basic HTML stuff. Not much :-)
 
 ## Results
+
+![Results](https://github.com/prp-e/matplotlib_barchart/blob/main/barchart_models.png?raw=true)
