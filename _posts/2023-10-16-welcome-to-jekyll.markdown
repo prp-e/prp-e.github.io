@@ -57,3 +57,7 @@ This is the same as the task _T_. But with a little difference. I put my mother 
 At this point we can call this _Non-English_ task and not only Persian.
 
 ### Code Generation (C)
+
+This is the same as the tasks _T_ and _P_ but with code generation experience. I personally tested python, js and basic HTML stuff. Not much :-)
+
+## Results
