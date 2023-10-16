@@ -63,3 +63,12 @@ This is the same as the tasks _T_ and _P_ but with code generation experience. I
 ## Results
 
 ![Results](https://github.com/prp-e/matplotlib_barchart/blob/main/barchart_models.png?raw=true)
+
+## Conclusion 
+
+Fine, it is apparent that Mistral wins the cup. But let me tell you what I found from this _not so quick_ test I did: 
+
+- Mistral is good for pretty much most of the applications (even without being fine-tuned)
+- Mistral can be a good base for fine tuning (on instructions, codes, other languages, etc.)
+
+The next model I will study in depth would be _StableLM 3B_ since it also showed some promising results. So let me put everything together and make it short. _Mistral is tiny but mighty_.
