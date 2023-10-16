@@ -52,4 +52,8 @@ This is basically the same as the previous one, but with sligth difference. The 
 
 ### Persian Text Generation (P)
 
+This is the same as the task _T_. But with a little difference. I put my mother tongue in test. If you are going to try to repeat this, I should recommend doing this in your own language. For example if you speak Arabic, use Arabic as input. If you speak Portuguese, use that. 
+
+At this point we can call this _Non-English_ task and not only Persian.
+
 ### Code Generation (C)
